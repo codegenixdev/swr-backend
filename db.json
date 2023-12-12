@@ -2,111 +2,57 @@
   "todos": [
     {
       "checked": true,
-      "title": "title6",
-      "description": "desc6",
+      "title": "Complete math assignment",
+      "description": "Finish the remaining exercises in the calculus workbook",
       "id": 1
     },
     {
       "checked": true,
-      "title": "title7",
+      "title": "Call the insurance company",
       "description": "desc7",
       "id": 2
     },
     {
       "checked": true,
-      "title": "title8",
-      "description": "desc8",
+      "title": "Buy groceries",
+      "description": "Purchase fruits, vegetables, and dairy products",
       "id": 3
     },
     {
-      "title": "test",
-      "description": "test",
+      "title": "Prepare for presentation",
+      "description": "Organize the slides and rehearse the key points",
       "id": 4,
       "checked": true
     },
     {
-      "title": "test",
-      "description": "",
+      "title": "Plan weekend trip",
+      "description": "Research potential destinations and accommodation options",
       "id": 5,
       "checked": true
     },
     {
       "checked": true,
-      "title": "title6",
-      "description": "desc6",
+      "title": "Pay electricity bill",
+      "description": "Check the due date and complete the online payment",
       "id": 6
     },
     {
       "checked": true,
-      "title": "title7",
-      "description": "desc7",
+      "title": "Organize closet",
+      "description": "Sort out clothes and donate the ones not in use",
       "id": 7
     },
     {
       "checked": true,
-      "title": "title8",
-      "description": "desc8",
+      "title": "Schedule car maintenance",
+      "description": "Book an appointment with the local auto repair shop",
       "id": 8
     },
     {
-      "title": "test",
-      "description": "test",
+      "title": "Attend yoga class",
+      "description": "Pack the essentials and head to the 6 p.m. session at the yoga studio",
       "id": 9,
       "checked": true
-    },
-    {
-      "title": "test",
-      "description": "",
-      "id": 10,
-      "checked": true
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 11,
-      "checked": true
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 12,
-      "checked": true
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 13,
-      "checked": true
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 14
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 15
-    },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 16
-    },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 17
-    },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 18
-    },
-    {
-      "title": "new todo",
-      "description": "new todo",
-      "id": 19
     }
   ],
 

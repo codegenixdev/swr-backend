@@ -54,12 +54,5 @@
       "id": 9,
       "checked": true
     }
-  ],
-
-  "products": [
-    {
-      "id": 1,
-      "name": "product 1"
-    }
   ]
 }

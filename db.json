@@ -54,5 +54,13 @@
       "id": 9,
       "checked": true
     }
-  ]
+  ],
+  "user": {
+    "userName": "CodeGenix"
+  },
+
+  "cart": {
+    "totalCost": "130$",
+    "products": ["hotdog", "pizza", "extra sauce"]
+  }
 }

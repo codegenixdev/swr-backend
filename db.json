@@ -60,11 +60,7 @@
   },
   "cart": {
     "totalCost": "130$",
-    "products": [
-      "hotdog",
-      "pizza",
-      "extra sauce"
-    ]
+    "products": ["hotdog", "pizza", "extra sauce"]
   },
   "products": [
     {
@@ -82,30 +78,24 @@
     {
       "id": 4,
       "title": "Speaker"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post"
     },
     {
-      "title": "tests",
-      "id": 5
+      "id": 2,
+      "title": "Second post"
     },
     {
-      "title": "eee",
-      "id": 6
+      "id": 3,
+      "title": "Third post"
     },
     {
-      "title": "eee",
-      "id": 7
-    },
-    {
-      "title": "eee",
-      "id": 8
-    },
-    {
-      "title": "eee",
-      "id": 9
-    },
-    {
-      "title": "",
-      "id": 10
+      "id": 4,
+      "title": "ّFourth post"
     }
   ]
 }

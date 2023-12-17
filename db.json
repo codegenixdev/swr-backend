@@ -58,9 +58,54 @@
   "user": {
     "userName": "CodeGenix"
   },
-
   "cart": {
     "totalCost": "130$",
-    "products": ["hotdog", "pizza", "extra sauce"]
-  }
+    "products": [
+      "hotdog",
+      "pizza",
+      "extra sauce"
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "IPhone"
+    },
+    {
+      "id": 2,
+      "title": "Laptop"
+    },
+    {
+      "id": 3,
+      "title": "Monitor"
+    },
+    {
+      "id": 4,
+      "title": "Speaker"
+    },
+    {
+      "title": "tests",
+      "id": 5
+    },
+    {
+      "title": "eee",
+      "id": 6
+    },
+    {
+      "title": "eee",
+      "id": 7
+    },
+    {
+      "title": "eee",
+      "id": 8
+    },
+    {
+      "title": "eee",
+      "id": 9
+    },
+    {
+      "title": "",
+      "id": 10
+    }
+  ]
 }

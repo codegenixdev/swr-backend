@@ -78,6 +78,66 @@
     {
       "id": 4,
       "title": "Speaker"
+    },
+    {
+      "title": "Microphone",
+      "id": 5
+    },
+    {
+      "title": "Camera",
+      "id": 6
+    },
+    {
+      "title": "Camera 2",
+      "id": 7
+    },
+    {
+      "title": "Phone2",
+      "id": 8
+    },
+    {
+      "title": "Phone3",
+      "id": 9
+    },
+    {
+      "title": "Phone4",
+      "id": 10
+    },
+    {
+      "title": "Phone5",
+      "id": 11
+    },
+    {
+      "title": "Phone7",
+      "id": 12
+    },
+    {
+      "title": "Phone8",
+      "id": 13
+    },
+    {
+      "title": "Phone9",
+      "id": 14
+    },
+    {
+      "title": "Phone10",
+      "id": 15
+    },
+    {
+      "title": "Phone11",
+      "id": 16
+    },
+    {
+      "title": "Phone12",
+      "id": 17
+    },
+    {
+      "title": "phone13",
+      "id": 18
+    },
+    {
+      "title": "phone14",
+      "id": 19
     }
   ],
   "posts": [
